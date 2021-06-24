@@ -1,6 +1,6 @@
 aiohttp==3.7.4
 discord.py==1.6.0
-Django==3.1.8
+Django==3.1.12
 django-extensions==2.1.9
 django-ratelimit==2.0.0
 Markdown==3.1.1
